@@ -45,3 +45,17 @@ $ python compute_hiv_standardization_data.py
 $ python main_hiv.py
 $ python analyze_hiv.py
 ```
+
+## Citation
+```bash
+@incollection{NIPS2018_7530,
+title = {Representation Balancing MDPs for Off-policy Policy Evaluation},
+author = {Liu, Yao and Gottesman, Omer and Raghu, Aniruddh and Komorowski, Matthieu and Faisal, Aldo A and Doshi-Velez, Finale and Brunskill, Emma},
+booktitle = {Advances in Neural Information Processing Systems 31},
+editor = {S. Bengio and H. Wallach and H. Larochelle and K. Grauman and N. Cesa-Bianchi and R. Garnett},
+pages = {2645--2654},
+year = {2018},
+publisher = {Curran Associates, Inc.},
+url = {http://papers.nips.cc/paper/7530-representation-balancing-mdps-for-off-policy-policy-evaluation.pdf}
+}
+```
